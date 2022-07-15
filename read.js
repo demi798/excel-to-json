@@ -1,7 +1,7 @@
 /**
- * @author 
- * @date 
- * @description
+ * @author Demi
+ * @date 2022-07-14
+ * @description 转换excel(简单数据)为json对象
  */
 
 let xlsx = require('node-xlsx');
