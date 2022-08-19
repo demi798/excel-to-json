@@ -1,12 +1,12 @@
 {
   "name": "excel",
   "version": "1.0.0",
-  "description": "",
+  "description": "将简单excel转为二维json的一个node小方法",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "demi",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
